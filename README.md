@@ -1,4 +1,4 @@
-# percentage-calculator
+
 marks1=int(input("enter your english marks="))
 marks2=int(input("enter your maths marks="))
 marks3=int(input("enter your physics marks="))
